@@ -16,6 +16,9 @@
 
 
 ## 🌱 Fun Project
+Free translate API - same as Google Translate API but Free Forever :)
+**Demo https://free-translate-api.herokuapp.com/translate?from=vi&to=en&query=hay**
+
 Make portrait with single thread
 **Demo https://portrait.leowilbur.tech**
 
