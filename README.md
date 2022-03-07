@@ -15,6 +15,9 @@
 
 
 ## 🌱 Fun Project
+Free OCR Image to Text Support Multilanguages Like Google Vision but Free F
+**Demo https://ocr-vision-free.vercel.app**
+
 Free translate API - same as Google Translate API but Free Forever :)
 **Demo https://free-translate-api.herokuapp.com/translate?from=vi&to=en&query=hay**
 
