@@ -15,7 +15,7 @@
 
 
 ## 🌱 Fun Project
-Free OCR Image to Text Support Multilanguages Like Google Vision but Free F
+### Free OCR Image to Text Support Multilanguages Like Google Vision but Free Forever
 **Demo https://ocr-vision-free.vercel.app**
 
 Free translate API - same as Google Translate API but Free Forever :)
